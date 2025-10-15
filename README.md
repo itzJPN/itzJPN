@@ -26,6 +26,7 @@
 [![Scratch](https://img.shields.io/badge/Scratch-@Nestrox-FFA500?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Nestrox/)
 
 **Contact Me**
+
 You can easily contact me by clicking the button below.
 
 [![Email](https://img.shields.io/badge/Email-contactjbluebird%40icloud.com-blue?logo=icloud)](mailto:contactjbluebird@icloud.com)
