@@ -1,7 +1,9 @@
 # Hi there, I'm JPN.
 
 - Self-taught developer since age 8
-- Building SwiftUI apps, web projects, and retro Mac emulation tools  
+- Building SwiftUI apps, web projects, and retro Mac emulation tools
+
+[Click me to go to my website](https://itzjpn.github.io)
 
 **Languages**
 
