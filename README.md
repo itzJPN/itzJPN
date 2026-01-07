@@ -17,11 +17,6 @@
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-FFD700?logo=gnu-bash&logoColor=black)
 ![AppleScript](https://img.shields.io/badge/AppleScript-000000?logo=apple&logoColor=white)
 
-**GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzJPN&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzJPN&layout=compact&theme=tokyonight)
-
 **Where I'm at**
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@techspertyt)
