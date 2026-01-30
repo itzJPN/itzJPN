@@ -1,9 +1,11 @@
 # Hi there, I'm JPN.
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000&center=false&vCenter=true&width=435&lines=Building+Shortcuts;Developing+iCopy;Creating+Web+Apps;Exploring+Linux;Creating+Free+Mac+Apps;Hacking+iOS;Trying+out+perl;Burning+CDs;Watching+birds;Playing+Minecraft" alt="Typing SVG" />
+
 - Self-taught developer since age 8
 - Building SwiftUI apps, web projects, and retro Mac emulation tools
 
-[Click me to go to my website](https://itzjpn.github.io)
+[Go to my website](https://itzjpn.github.io)
 
 **Languages**
 
@@ -26,4 +28,4 @@
 
 You can easily contact me by clicking the button below.
 
-[![Email](https://img.shields.io/badge/Email-contactjbluebird%40icloud.com-blue?logo=icloud)](mailto:contactjbluebird@icloud.com)
+[![Email](https://img.shields.io/badge/Email-contactjbluebird%40icloud.com-blue?logo=icloud)](mailto:itzjpn@outlook.com)
