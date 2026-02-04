@@ -23,6 +23,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@techspertyt)
 [![Scratch](https://img.shields.io/badge/Scratch-@Nestrox-FFA500?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Nestrox/)
+[![X](https://img.shields.io/badge/X-@itzDaRealJPN-1DA1F2?logo=twitter&logoColor=white)](https://x.com/itzdarealjpn)
 
 **Contact Me**
 
