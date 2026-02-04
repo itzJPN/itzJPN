@@ -1,3 +1,6 @@
+<img src="banner.jpeg" alt="Banner" style="width:100%; height:150px; object-fit:cover;">
+
+
 # Hi there, I'm JPN.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000&center=false&vCenter=true&width=435&lines=Building+Shortcuts;Developing+iCopy;Creating+Web+Apps;Exploring+Linux;Creating+Free+Mac+Apps;Hacking+iOS;Trying+out+perl;Burning+CDs;Watching+birds;Playing+Minecraft;Playing+with+my+peeps;Removing+herobrine;Gloating+that+I+am+self+taught;taking+naps" alt="Typing SVG" />
